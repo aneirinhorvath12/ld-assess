@@ -1,0 +1,5 @@
+.DS_Store
+__MACOSX/
+# unpacked from olrt_source_documents.zip; regenerate with: unzip olrt_source_documents.zip
+source/
+__pycache__/
