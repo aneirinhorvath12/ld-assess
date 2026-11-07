@@ -1,0 +1,3684 @@
+[
+ {
+  "term": "2017 Readiness",
+  "uses": 6,
+  "defined": "Schedule 1 §1.3",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "2017 Readiness Date",
+  "uses": 10,
+  "defined": "Schedule 1 §1.2",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "2017 Readiness Work",
+  "uses": 13,
+  "defined": "Schedule 1 §1.4",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "417",
+  "uses": 3,
+  "defined": "Schedule 1 §1.1",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "6-Month Works Schedule",
+  "uses": 7,
+  "defined": "Schedule 1 §1.5",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Account Trustee",
+  "uses": 1,
+  "defined": "Schedule 1 §1.6 → Schedule 30 – Insurance Trust Agreement",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Act",
+  "uses": 29,
+  "defined": "Schedule 2 (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Additional Contractors",
+  "uses": 17,
+  "defined": "Schedule 1 §1.8",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Additional Works",
+  "uses": 35,
+  "defined": "Schedule 1 §1.9",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Adjacent Structures",
+  "uses": 1,
+  "defined": "Schedule 1 §1.10",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Adjusted Estimated Fair Value",
+  "uses": 1,
+  "defined": "Schedule 1 §1.11 → Schedule 23 – Compensation on Termination",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Adjusted Highest Qualifying Tender Price",
+  "uses": 1,
+  "defined": "Schedule 1 §1.13 → Schedule 23 – Compensation on Termination",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Advanced Environmental Reports",
+  "uses": 2,
+  "defined": "Schedule 1 §1.14",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Affiliate",
+  "uses": 2,
+  "defined": "Schedule 1 §1.15",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "After-Acquired Lands",
+  "uses": 10,
+  "defined": "Schedule 1 §1.16",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Agreement",
+  "uses": 24,
+  "defined": "Schedule 6 (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Albert Street Work",
+  "uses": 3,
+  "defined": "Schedule 1 §1.19",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Alignment",
+  "uses": 2,
+  "defined": "Schedule 1 §1.20",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Ancillary Documents",
+  "uses": 8,
+  "defined": "Schedule 1 §1.21",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Annex",
+  "uses": 1,
+  "defined": "Schedule 1 §1.22",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Annual Service Payment",
+  "uses": 2,
+  "defined": "Schedule 1 §1.25 → Schedule 20 – Payment Mechanism",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Anticipated Milestone Acceptance Date",
+  "uses": 4,
+  "defined": "Schedule 1 §1.26 → Section 26",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Anticipated Substantial Completion Date",
+  "uses": 3,
+  "defined": "Schedule 1 §1.27 → Section 26",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Applicable Law",
+  "uses": 84,
+  "defined": "Schedule 1 §1.28",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Approved Highway Subcontractor Highway Work",
+  "uses": 2,
+  "defined": "Schedule 1 §1.32",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Approved Highway Subcontractors",
+  "uses": 2,
+  "defined": "Schedule 1 §1.33",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Approved Purposes",
+  "uses": 2,
+  "defined": "Schedule 1 §1.31",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Archaeological Reports",
+  "uses": 1,
+  "defined": "Schedule 1 §1.34",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Articles",
+  "uses": 9,
+  "defined": "Schedule 2 (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "As Built Drawings",
+  "uses": 2,
+  "defined": "Schedule 1 §1.35",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "As-Built Highway Drawings",
+  "uses": 1,
+  "defined": "Schedule 1 §1.36",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Associated Liabilities",
+  "uses": 2,
+  "defined": "Schedule 1 §1.38 → Section 35",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Authority Requirement",
+  "uses": 2,
+  "defined": "Schedule 1 §1.39",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Availability Failure",
+  "uses": 10,
+  "defined": "Schedule 1 §1.40 → Schedule 20 – Payment Mechanism",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Background Information",
+  "uses": 14,
+  "defined": "Schedule 1 §1.43",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Bank",
+  "uses": 1,
+  "defined": "Schedule 1 §1.44 → Schedule 30 – Insurance Trust Agreement",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Belfast MSF",
+  "uses": 16,
+  "defined": "Schedule 1 §1.46",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Belfast MSF Expansion Substantial Completion",
+  "uses": 2,
+  "defined": "Schedule 1 §1.48 → Schedule 45 - Belfast MSF Expansion",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Belfast MSF Expansion Variation",
+  "uses": 9,
+  "defined": "Schedule 1 §1.49",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Belfast MSF Expansion Works",
+  "uses": 4,
+  "defined": "Schedule 1 §1.51 → Schedule 45 - Belfast MSF Expansion",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Beneficiary",
+  "uses": 41,
+  "defined": "Schedule 1 §1.52 → Section 56",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Bill of Sale",
+  "uses": 5,
+  "defined": "body (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Bus Rapid Transit",
+  "uses": 1,
+  "defined": "Schedule 1 §1.54",
+  "kind": "alias",
+  "original_in_app8": false
+ },
+ {
+  "term": "Bus Rapid Transit or BRT",
+  "uses": 1,
+  "defined": "Schedule 1 §1.54",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Business Day",
+  "uses": 103,
+  "defined": "Schedule 1 §1.55",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Business Opportunities",
+  "uses": 7,
+  "defined": "Schedule 1 §1.57 → Section 4",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "CaGBC",
+  "uses": 5,
+  "defined": "Schedule 1 §1.58",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Canadian Content Certificate",
+  "uses": 3,
+  "defined": "Schedule 1 §1.59",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Canadian Content Policy",
+  "uses": 2,
+  "defined": "Schedule 1 §1.60",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Canadian Content Requirements",
+  "uses": 3,
+  "defined": "Schedule 1 §1.61",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Cash Allowance Account",
+  "uses": 20,
+  "defined": "Schedule 1 §1.64",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Cash Allowance Amount",
+  "uses": 7,
+  "defined": "Schedule 1 §1.65",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Change",
+  "uses": 10,
+  "defined": "Schedule 15-1",
+  "kind": "unquoted",
+  "original_in_app8": false
+ },
+ {
+  "term": "Change in Control",
+  "uses": 7,
+  "defined": "Schedule 1 §1.70",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Change in Law",
+  "uses": 11,
+  "defined": "Schedule 1 §1.71",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Change in Ownership",
+  "uses": 8,
+  "defined": "Schedule 1 §1.72",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Checking Team",
+  "uses": 1,
+  "defined": "Schedule 1 §1.75",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "City",
+  "uses": 1420,
+  "defined": "Schedule 1 §1.76",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "City Activities",
+  "uses": 2,
+  "defined": "Schedule 1 §1.77",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "City Closing Documents",
+  "uses": 1,
+  "defined": "Schedule 1 §1.78",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "City Default Termination Sum",
+  "uses": 3,
+  "defined": "Schedule 1 §1.79 → Schedule 23 – Compensation on Termination",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "City Design Team",
+  "uses": 12,
+  "defined": "Schedule 1 §1.80",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "City Event of Default",
+  "uses": 7,
+  "defined": "Schedule 1 §1.81 → Section 46",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "City Indemnified Hazardous Substances Claims",
+  "uses": 3,
+  "defined": "Schedule 1 §1.82 → Section 56",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "City Party",
+  "uses": 86,
+  "defined": "Schedule 1 §1.84",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "City Permits, Licences and Approvals",
+  "uses": 7,
+  "defined": "Schedule 1 §1.85",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "City Representative",
+  "uses": 104,
+  "defined": "Schedule 1 §1.88",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "City Third Party Beneficiaries",
+  "uses": 3,
+  "defined": "Schedule 1 §1.90 → Section 64",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "City’s Project Manager",
+  "uses": 2,
+  "defined": "Schedule 1 §1.93",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Civic Works",
+  "uses": 70,
+  "defined": "Schedule 1 §1.94",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Civic Works Completion Dates",
+  "uses": 3,
+  "defined": "Schedule 1 §1.95",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Civic Works Specifications",
+  "uses": 4,
+  "defined": "Schedule 1 §1.96",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "CLA",
+  "uses": 18,
+  "defined": "Schedule 1 §1.97",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Claim",
+  "uses": 8,
+  "defined": "Schedule 1 §1.98",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Commencement of Construction",
+  "uses": 1,
+  "defined": "Schedule 1 §1.99",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Commercial Close",
+  "uses": 18,
+  "defined": "Schedule 1 §1.100",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Compensation Event",
+  "uses": 20,
+  "defined": "Schedule 1 §1.105 → Section 41",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Component",
+  "uses": 1,
+  "defined": "Schedule 1 §1.106",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Confidant",
+  "uses": 9,
+  "defined": "Schedule 1 §1.107 → Section 52",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Confidential Information",
+  "uses": 18,
+  "defined": "Schedule 1 §1.108",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Construction",
+  "uses": 16,
+  "defined": "Schedule 1 §1.109",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Construction Activities",
+  "uses": 4,
+  "defined": "Schedule 1 §1.110",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Construction Clearing and Grubbing",
+  "uses": 3,
+  "defined": "Schedule 1 §1.111",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Construction Contract",
+  "uses": 2,
+  "defined": "Schedule 1 §1.113",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Construction Contractor",
+  "uses": 5,
+  "defined": "Schedule 1 §1.112",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Construction Document Submittals",
+  "uses": 8,
+  "defined": "Schedule 1 §1.114 → Section 20",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Construction Easements",
+  "uses": 3,
+  "defined": "Schedule 1 §1.115",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Construction Guarantors",
+  "uses": 1,
+  "defined": "Schedule 1 §1.116",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Construction Period",
+  "uses": 4,
+  "defined": "Schedule 1 §1.118",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Consultant",
+  "uses": 37,
+  "defined": "Schedule 1 §1.120",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Contamination",
+  "uses": 31,
+  "defined": "Schedule 1 §1.121",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Contract Documents",
+  "uses": 16,
+  "defined": "Schedule 1 §1.122",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Contract Month",
+  "uses": 33,
+  "defined": "Schedule 1 §1.124 → Schedule 20 – Payment Mechanism",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Contract Year",
+  "uses": 7,
+  "defined": "Schedule 1 §1.125 → Schedule 20 – Payment Mechanism",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Contractors",
+  "uses": 18,
+  "defined": "Schedule 1 §1.128",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Contractor’s Direct Agreement",
+  "uses": 5,
+  "defined": "Schedule 1 §1.126",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Contracts",
+  "uses": 9,
+  "defined": "Schedule 1 §1.127",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Contribution Agreement Parties",
+  "uses": 3,
+  "defined": "Schedule 1 §1.129",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Contribution Agreements",
+  "uses": 7,
+  "defined": "Schedule 1 §1.130",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Control",
+  "uses": 3,
+  "defined": "Schedule 1 §1.131",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Coordination Fee",
+  "uses": 2,
+  "defined": "Schedule 1 §1.132",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Corporation",
+  "uses": 2,
+  "defined": "Schedule 2 (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Correction",
+  "uses": 1,
+  "defined": "Schedule 1 §1.135",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Cost of the Highway Financing",
+  "uses": 1,
+  "defined": "Schedule 1 §1.137",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Cost of the Highway Work",
+  "uses": 1,
+  "defined": "Schedule 1 §1.138",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Countdown Notice",
+  "uses": 5,
+  "defined": "Schedule 1 §1.139 → Section 26",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Coventry Bridge Work",
+  "uses": 8,
+  "defined": "Schedule 1 §1.140",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "CPI",
+  "uses": 1,
+  "defined": "Schedule 1 §1.141",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "CSST Work",
+  "uses": 2,
+  "defined": "Schedule 1 §1.148",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Custodian",
+  "uses": 5,
+  "defined": "Schedule 1 §1.152",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Custody Agreement",
+  "uses": 2,
+  "defined": "Schedule 1 §1.153",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "DB Co",
+  "uses": 111,
+  "defined": "Schedule 1 §1.155",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "DB Co Compensation Event",
+  "uses": 3,
+  "defined": "Schedule 1 §1.156",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "DB Co Delay Event",
+  "uses": 3,
+  "defined": "Schedule 1 §1.157",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "DB Co Direct Claim Entitlements",
+  "uses": 7,
+  "defined": "Schedule 1 §1.159 → Section 9",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "DB Co Interface Agreement",
+  "uses": 32,
+  "defined": "Schedule 1 §1.160",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "DB Co Party",
+  "uses": 17,
+  "defined": "Schedule 1 §1.161",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "DB Co Works",
+  "uses": 7,
+  "defined": "Schedule 1 §1.162",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "DB Co Works Agreement",
+  "uses": 56,
+  "defined": "Schedule 1 §1.163",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "DB Co-Derived Project Co Entitlements",
+  "uses": 7,
+  "defined": "Schedule 1 §1.158 → Section 9",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "DBF Defect",
+  "uses": 43,
+  "defined": "Schedule 1 §1.165",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Deduction",
+  "uses": 11,
+  "defined": "Schedule 1 §1.166 → Schedule 20 – Payment Mechanism",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Defect",
+  "uses": 1,
+  "defined": "Schedule 1 §1.169",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Deficiency",
+  "uses": 6,
+  "defined": "Schedule 1 §1.170 → Schedule 15-1 – Output Specifications – Technical Definitions and Reference Documents",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Delay Events",
+  "uses": 44,
+  "defined": "Schedule 1 §1.171 → Section 40",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Delegation Agreement",
+  "uses": 1,
+  "defined": "Schedule 1 §1.172",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Design",
+  "uses": 15,
+  "defined": "Schedule 1 §1.174",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Design and Bid Fee",
+  "uses": 2,
+  "defined": "Schedule 1 §1.175",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Design and Certification Procedure",
+  "uses": 3,
+  "defined": "Schedule 1 §1.176",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Design and Construction Performance Requirements",
+  "uses": 1,
+  "defined": "Schedule 1 §1.177",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Design and Construction Specifications",
+  "uses": 1,
+  "defined": "Schedule 1 §1.178",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Design and Construction Works",
+  "uses": 86,
+  "defined": "Schedule 1 §1.179",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Design and Construction Works Commencement Date",
+  "uses": 3,
+  "defined": "Schedule 1 §1.180",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Design Data",
+  "uses": 20,
+  "defined": "Schedule 1 §1.182",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Design Development Submittals",
+  "uses": 9,
+  "defined": "Schedule 1 §1.183 → Section 20",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Design Period",
+  "uses": 2,
+  "defined": "Schedule 1 §1.185",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Design Review Meetings",
+  "uses": 16,
+  "defined": "Schedule 1 §1.186 → Section 20",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Design Team",
+  "uses": 3,
+  "defined": "Schedule 1 §1.187",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Development Approval",
+  "uses": 2,
+  "defined": "Schedule 1 §1.188",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Direct",
+  "uses": 1,
+  "defined": "Schedule 1 §1.192",
+  "kind": "alias",
+  "original_in_app8": false
+ },
+ {
+  "term": "Direct Agreement",
+  "uses": 3,
+  "defined": "Schedule 1 §1.189",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Direct Cost",
+  "uses": 13,
+  "defined": "Schedule 1 §1.190 → Schedule 22 – Variation Procedure",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Direct Losses",
+  "uses": 14,
+  "defined": "Schedule 1 §1.191",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Direct or Indirect Power or Control",
+  "uses": 2,
+  "defined": "Schedule 1 §1.192",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Discretion",
+  "uses": 33,
+  "defined": "Schedule 1 §1.197",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Discriminatory Change in Law",
+  "uses": 1,
+  "defined": "Schedule 1 §1.198",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Dispute",
+  "uses": 29,
+  "defined": "Schedule 1 §1.199 → Schedule 27 – Dispute Resolution Procedure",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Dispute Resolution Procedure",
+  "uses": 56,
+  "defined": "Schedule 1 §1.200",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Drivers",
+  "uses": 3,
+  "defined": "Schedule 1 §1.203 → Schedule 15-1 – Output Specifications – Technical Definitions and Reference Documents",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "E&M",
+  "uses": 1,
+  "defined": "Schedule 1 §1.204",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "EA Approvals",
+  "uses": 2,
+  "defined": "Schedule 1 §1.205",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "East Trial Running Period",
+  "uses": 1,
+  "defined": "Schedule 1 §1.207 → Schedule 20 – Payment Mechanism",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "East Trigger Date",
+  "uses": 2,
+  "defined": "body (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Economic Interest",
+  "uses": 1,
+  "defined": "Schedule 1 §1.208",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Emergency",
+  "uses": 18,
+  "defined": "Schedule 1 §1.210",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Emergency Response Plan",
+  "uses": 4,
+  "defined": "Schedule 1 §1.211",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Emergency Service Providers",
+  "uses": 6,
+  "defined": "Schedule 1 §1.212",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Employees",
+  "uses": 2,
+  "defined": "Schedule 1 §1.213",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Encumbrance",
+  "uses": 34,
+  "defined": "Schedule 1 §1.216",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Energy Analysis Report",
+  "uses": 1,
+  "defined": "Schedule 1 §1.217 → Schedule 8 – Energy Matters",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Environmental Approvals",
+  "uses": 1,
+  "defined": "Schedule 1 §1.222",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Environmental Assessments",
+  "uses": 3,
+  "defined": "Schedule 1 §1.223",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Environmental Reports",
+  "uses": 1,
+  "defined": "Schedule 1 §1.228",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "EPR Claim",
+  "uses": 30,
+  "defined": "Schedule 1 §1.230 → Section 9",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "EPR Claim Notice",
+  "uses": 5,
+  "defined": "Schedule 1 §1.231 → Section 9",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Equipment",
+  "uses": 1,
+  "defined": "Schedule 1 §1.232",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Equivalent Project Relief",
+  "uses": 18,
+  "defined": "Schedule 1 §1.237 → Section 9",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Estimate",
+  "uses": 5,
+  "defined": "Schedule 1 §1.240 → Schedule 22 – Variation Procedure",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Event",
+  "uses": 2,
+  "defined": "Schedule 20 (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Excess Equity Gain",
+  "uses": 1,
+  "defined": "Schedule 1 §1.242",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Excusing Cause",
+  "uses": 23,
+  "defined": "Schedule 1 §1.244 → Section 42",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Existing Contamination",
+  "uses": 4,
+  "defined": "Schedule 1 §1.247 → Section 16",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Existing Highway Infrastructure",
+  "uses": 3,
+  "defined": "Schedule 1 §1.248",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Expanded Output Specifications",
+  "uses": 4,
+  "defined": "Schedule 1 §1.253",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Expanded System",
+  "uses": 1,
+  "defined": "Schedule 1 §1.250",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Expert",
+  "uses": 1,
+  "defined": "Schedule 1 §1.254 → Schedule 27 – Dispute Resolution Procedure",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Expiry Date",
+  "uses": 11,
+  "defined": "Schedule 1 §1.255",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Expiry Transition Procedure",
+  "uses": 7,
+  "defined": "Schedule 1 §1.257",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Failure",
+  "uses": 5,
+  "defined": "Schedule 15-1",
+  "kind": "unquoted",
+  "original_in_app8": false
+ },
+ {
+  "term": "Failure Points",
+  "uses": 30,
+  "defined": "Schedule 1 §1.262 → Schedule 20 – Payment Mechanism",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "FCLC",
+  "uses": 2,
+  "defined": "Schedule 1 §1.263",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Final Completion",
+  "uses": 10,
+  "defined": "Schedule 1 §1.264",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Final Completion Certificate",
+  "uses": 11,
+  "defined": "Schedule 1 §1.265",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Final Completion Date",
+  "uses": 9,
+  "defined": "Schedule 1 §1.266",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Final Completion Notice",
+  "uses": 6,
+  "defined": "Schedule 1 §1.267 → Section 26",
+  "kind": "pointer",
+  "original_in_app8": true
+ },
+ {
+  "term": "Final Construction Document Submittals",
+  "uses": 1,
+  "defined": "body (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Final Design Development Submittals",
+  "uses": 2,
+  "defined": "Schedule 1 §1.268 → Section 20",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Financial Close",
+  "uses": 42,
+  "defined": "Schedule 1 §1.270",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Financial Close Target Date",
+  "uses": 11,
+  "defined": "Schedule 1 §1.271",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Financial Model",
+  "uses": 13,
+  "defined": "Schedule 1 §1.272",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Financial Obligations",
+  "uses": 5,
+  "defined": "Schedule 1 §1.273",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "FIPPA",
+  "uses": 14,
+  "defined": "Schedule 1 §1.274",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "FLUA",
+  "uses": 1,
+  "defined": "Schedule 15-1",
+  "kind": "unquoted",
+  "original_in_app8": false
+ },
+ {
+  "term": "Force Majeure",
+  "uses": 27,
+  "defined": "Schedule 1 §1.279 → Section 44",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Gainshare Adjustment",
+  "uses": 1,
+  "defined": "Schedule 1 §1.280 → Schedule 8 – Energy Matters",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Geotechnical Data Reports",
+  "uses": 1,
+  "defined": "Schedule 1 §1.281",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Good Industry Practice (Works)",
+  "uses": 12,
+  "defined": "Schedule 1 §1.283",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Government Sensitive Information",
+  "uses": 1,
+  "defined": "Schedule 1 §1.284",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Governmental Activities",
+  "uses": 18,
+  "defined": "Schedule 1 §1.285",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Governmental Authority",
+  "uses": 23,
+  "defined": "Schedule 1 §1.286",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "H&S Conviction",
+  "uses": 5,
+  "defined": "Schedule 1 §1.289 → Section 45",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Has Knowledge",
+  "uses": 1,
+  "defined": "Schedule 1 §1.291",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Have Knowledge",
+  "uses": 1,
+  "defined": "Schedule 1 §1.291",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Hazardous Substances",
+  "uses": 5,
+  "defined": "Schedule 1 §1.292",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway",
+  "uses": 41,
+  "defined": "Schedule 1 §1.296",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Construction Schedule",
+  "uses": 10,
+  "defined": "Schedule 1 §1.300",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Contract Time",
+  "uses": 5,
+  "defined": "Schedule 1 §1.301",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Design Issue",
+  "uses": 6,
+  "defined": "Schedule 1 §1.302",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Final Completion Date",
+  "uses": 3,
+  "defined": "Schedule 1 §1.306",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Final Payment",
+  "uses": 12,
+  "defined": "Schedule 1 §1.308",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Final Payment Date",
+  "uses": 1,
+  "defined": "Schedule 1 §1.309",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Milestone Payment",
+  "uses": 13,
+  "defined": "Schedule 1 §1.311",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Milestone Payment Date",
+  "uses": 1,
+  "defined": "Schedule 1 §1.312",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Minor Deficiencies",
+  "uses": 1,
+  "defined": "Schedule 1 §1.314",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Highway Minor Deficiencies Holdback",
+  "uses": 2,
+  "defined": "Schedule 1 §1.315 → Section 16",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Post Substantial Completion Maintenance",
+  "uses": 2,
+  "defined": "Schedule 1 §1.317 → Section 11",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Scheduled Final Completion Date",
+  "uses": 2,
+  "defined": "Schedule 1 §1.320",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Scheduled Substantial Completion Date",
+  "uses": 15,
+  "defined": "Schedule 1 §1.321",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Site",
+  "uses": 51,
+  "defined": "Schedule 1 §1.324",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Site Background Reports",
+  "uses": 4,
+  "defined": "Schedule 1 §1.325",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Site Information",
+  "uses": 5,
+  "defined": "Schedule 1 §1.326",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Substantial Completion Certificate",
+  "uses": 1,
+  "defined": "Schedule 1 §1.329 → Section 16",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Substantial Completion Date",
+  "uses": 7,
+  "defined": "Schedule 1 §1.331",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Warranty",
+  "uses": 3,
+  "defined": "Schedule 1 §1.335 → Section 35",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Highway Work",
+  "uses": 151,
+  "defined": "Schedule 1 §1.336",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "HMQ",
+  "uses": 7,
+  "defined": "Schedule 1 §1.338",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "HST",
+  "uses": 25,
+  "defined": "Schedule 1 §1.339",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "HST Acceleration Event",
+  "uses": 2,
+  "defined": "Schedule 1 §1.340 → Section 35",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Indemnifiable Taxes",
+  "uses": 5,
+  "defined": "Schedule 1 §1.344 → Section 35",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Indemnifier",
+  "uses": 28,
+  "defined": "Schedule 1 §1.345 → Section 56",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Independent Certifier",
+  "uses": 79,
+  "defined": "Schedule 1 §1.346",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Independent Certifier Agreement",
+  "uses": 13,
+  "defined": "Schedule 1 §1.347",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Indirect Losses",
+  "uses": 2,
+  "defined": "Schedule 1 §1.349 → Section 57",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Infrastructure",
+  "uses": 5,
+  "defined": "Schedule 1 §1.352",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Innovation Proposal",
+  "uses": 28,
+  "defined": "Schedule 1 §1.353 → Section 39",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Inspection and Test Plan",
+  "uses": 1,
+  "defined": "Schedule 1 §1.354 → Schedule 11 – Quality Management",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Insurance Policies",
+  "uses": 2,
+  "defined": "Schedule 1 §1.356 → Schedule 30 – Insurance Trust Agreement",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Insurance Proceeds",
+  "uses": 4,
+  "defined": "Schedule 1 §1.357 → Schedule 30 – Insurance Trust Agreement",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Insurance Trust Agreement",
+  "uses": 9,
+  "defined": "Schedule 1 §1.360",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Integration",
+  "uses": 7,
+  "defined": "Schedule 1 §1.361",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Intellectual Property",
+  "uses": 16,
+  "defined": "Schedule 1 §1.362",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Intellectual Property Rights",
+  "uses": 3,
+  "defined": "Schedule 1 §1.363",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "IO",
+  "uses": 28,
+  "defined": "Schedule 1 §1.365",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Irrecoverable Tax",
+  "uses": 4,
+  "defined": "Schedule 1 §1.366 → Section 35",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Joint Insurance Cost Report",
+  "uses": 1,
+  "defined": "Schedule 1 §1.367 → Section 7",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Junior Debt Service Amount",
+  "uses": 2,
+  "defined": "Schedule 1 §1.368",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Key Individual",
+  "uses": 10,
+  "defined": "Schedule 1 §1.370",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Lands",
+  "uses": 76,
+  "defined": "Schedule 1 §1.371",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Latent Defect",
+  "uses": 20,
+  "defined": "Schedule 1 §1.373",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "LEED",
+  "uses": 8,
+  "defined": "Schedule 1 §1.375",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "LEED Certification",
+  "uses": 14,
+  "defined": "Schedule 1 §1.376",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "LEED Compliance Certificate",
+  "uses": 5,
+  "defined": "Schedule 1 §1.377 → Section 24",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "LEED Rating System",
+  "uses": 4,
+  "defined": "Schedule 1 §1.378",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Lenders",
+  "uses": 9,
+  "defined": "Schedule 1 §1.382",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Lenders’ Agent",
+  "uses": 1,
+  "defined": "Schedule 1 §1.380",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Lenders’ Direct Agreement",
+  "uses": 11,
+  "defined": "Schedule 1 §1.381",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Lending Agreements",
+  "uses": 13,
+  "defined": "Schedule 1 §1.383 → Schedule 23 – Compensation on Termination",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Liquidated Damages",
+  "uses": 11,
+  "defined": "Schedule 1 §1.386",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Longstop Date",
+  "uses": 4,
+  "defined": "Schedule 1 §1.387 → Section 45",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Maintain",
+  "uses": 1,
+  "defined": "Schedule 1 §1.391 → Schedule 15-1 – Output Specifications – Technical Definitions and Reference Documents",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Maintenance",
+  "uses": 3,
+  "defined": "Schedule 1 §1.392 → Schedule 15-1 – Output Specifications – Technical Definitions and Reference Documents",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Maintenance and Rehabilitation Requirements",
+  "uses": 9,
+  "defined": "Schedule 1 §1.393",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Maintenance Committee",
+  "uses": 37,
+  "defined": "Schedule 1 §1.394 → Section 12",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Maintenance Contract",
+  "uses": 2,
+  "defined": "Schedule 1 §1.396",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Maintenance Contractor",
+  "uses": 18,
+  "defined": "Schedule 1 §1.398",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Maintenance Contractor’s Direct Agreement",
+  "uses": 4,
+  "defined": "Schedule 1 §1.397",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Maintenance Services",
+  "uses": 122,
+  "defined": "Schedule 1 §1.402",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Maintenance Submittal",
+  "uses": 2,
+  "defined": "Schedule 1 §1.403 → Section 11",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Maintenance Term",
+  "uses": 17,
+  "defined": "Schedule 1 §1.404",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Mandatory Refinancing",
+  "uses": 1,
+  "defined": "Schedule 1 §1.407 → Schedule 28 – Refinancing",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Maximum Monthly Service Payment",
+  "uses": 2,
+  "defined": "Schedule 1 §1.409 → Schedule 23 – Compensation on Termination",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Medical Contamination",
+  "uses": 6,
+  "defined": "Schedule 1 §1.410",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "MFIPPA",
+  "uses": 12,
+  "defined": "Schedule 1 §1.411",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Milestone",
+  "uses": 13,
+  "defined": "Schedule 1 §1.412",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Milestone Acceptance",
+  "uses": 16,
+  "defined": "Schedule 1 §1.413",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Milestone Acceptance Certificate",
+  "uses": 12,
+  "defined": "Schedule 1 §1.414",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Milestone Acceptance Date",
+  "uses": 13,
+  "defined": "Schedule 1 §1.416",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Milestone Acceptance Notice",
+  "uses": 4,
+  "defined": "Schedule 1 §1.417 → Section 26",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Milestone Payment",
+  "uses": 5,
+  "defined": "Schedule 1 §1.418",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Milestone Payment Date",
+  "uses": 3,
+  "defined": "Schedule 1 §1.419",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Minimum Subsequent Time",
+  "uses": 2,
+  "defined": "Schedule 1 §1.420 → Section 26",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Minor Deficiencies",
+  "uses": 19,
+  "defined": "Schedule 1 §1.422",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Minor Deficiencies List",
+  "uses": 11,
+  "defined": "Schedule 1 §1.423 → Section 26",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Mobility Matters Deductions",
+  "uses": 1,
+  "defined": "Schedule 1 §1.424",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Monitoring Notice",
+  "uses": 22,
+  "defined": "Schedule 1 §1.426 → Section 31",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Monthly Service Payments",
+  "uses": 33,
+  "defined": "Schedule 1 §1.427",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "MSFs",
+  "uses": 8,
+  "defined": "Schedule 1 §1.429",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "MTO",
+  "uses": 6,
+  "defined": "Schedule 1 §1.433",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "MTO Winter Maintenance Work",
+  "uses": 6,
+  "defined": "Schedule 1 §1.436 → Section 40",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "NCC",
+  "uses": 2,
+  "defined": "Schedule 1 §1.437",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "NCC FLUA",
+  "uses": 12,
+  "defined": "Schedule 1 §1.438",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "NCC Stations",
+  "uses": 1,
+  "defined": "Schedule 1 §1.439",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Net Highway Maintenance Adjustment",
+  "uses": 1,
+  "defined": "Schedule 1 §1.441",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Net Highway Payment Adjustment",
+  "uses": 3,
+  "defined": "Schedule 1 §1.442",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "New Required Revenue Service Availability Date",
+  "uses": 13,
+  "defined": "Schedule 1 §1.446 → Section 26",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "New System Infrastructure",
+  "uses": 2,
+  "defined": "Schedule 1 §1.447",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Non-Default Termination Sum",
+  "uses": 3,
+  "defined": "Schedule 1 §1.451 → Schedule 23 – Compensation on Termination",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Non-Resident",
+  "uses": 6,
+  "defined": "Schedule 1 §1.453",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Notice",
+  "uses": 28,
+  "defined": "Schedule 1 §1.454 → Section 61",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Notice of Dispute",
+  "uses": 1,
+  "defined": "Schedule 1 §1.455 → Schedule 27 – Dispute Resolution Procedure",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "OHSA",
+  "uses": 4,
+  "defined": "Schedule 1 §1.459",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "OLRT Regulations",
+  "uses": 13,
+  "defined": "Schedule 1 §1.461",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Operations",
+  "uses": 12,
+  "defined": "Schedule 1 §1.463",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Other Contractor",
+  "uses": 9,
+  "defined": "Schedule 1 §1.468",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Other Existing Infrastructure",
+  "uses": 9,
+  "defined": "Schedule 1 §1.469",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Other Works",
+  "uses": 7,
+  "defined": "Schedule 1 §1.470",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Ottawa",
+  "uses": 10,
+  "defined": "Schedule 6 (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Output Specifications",
+  "uses": 40,
+  "defined": "Schedule 1 §1.471",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Painshare Adjustment",
+  "uses": 1,
+  "defined": "Schedule 1 §1.473 → Schedule 8 – Energy Matters",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Partners",
+  "uses": 8,
+  "defined": "Schedule 1 §1.474",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Party",
+  "uses": 154,
+  "defined": "Schedule 1 §1.476",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Payment Adjustment Report",
+  "uses": 19,
+  "defined": "Schedule 1 §1.479 → Section 34",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Payment Compensation Amount",
+  "uses": 2,
+  "defined": "Schedule 1 §1.480",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Payment Mechanism",
+  "uses": 19,
+  "defined": "Schedule 1 §1.481",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Performance Guarantees",
+  "uses": 1,
+  "defined": "Schedule 1 §1.482",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Performance Monitoring Program",
+  "uses": 1,
+  "defined": "Schedule 1 §1.483",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Performance Monitoring Report",
+  "uses": 2,
+  "defined": "Schedule 1 §1.484 → Schedule 11 – Quality Management",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Permanent Easements",
+  "uses": 1,
+  "defined": "Schedule 1 §1.485",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Permits",
+  "uses": 6,
+  "defined": "Schedule 1 §1.486",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Permits, Licences and Approvals",
+  "uses": 15,
+  "defined": "Schedule 1 §1.487",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Permitted Borrowing",
+  "uses": 1,
+  "defined": "Schedule 1 §1.488",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Person",
+  "uses": 4,
+  "defined": "Schedule 1 §1.489",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Personal Information",
+  "uses": 26,
+  "defined": "Schedule 1 §1.490",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Police Service",
+  "uses": 5,
+  "defined": "Schedule 1 §1.492",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Post-Warranty Delay Period",
+  "uses": 3,
+  "defined": "Schedule 1 §1.494 → Section 42",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Pre-Existing Environmental Site Conditions",
+  "uses": 1,
+  "defined": "Schedule 1 §1.495",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Pre-final Construction Document Submittals",
+  "uses": 1,
+  "defined": "body (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Pre-final Design Development Submittals",
+  "uses": 1,
+  "defined": "body (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Previously Paid Monthly HST Amount",
+  "uses": 2,
+  "defined": "Schedule 1 §1.498",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Procurement Support Services",
+  "uses": 5,
+  "defined": "Schedule 1 §1.499 → Schedule 43 to the Project Agreement",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Prohibited Act",
+  "uses": 11,
+  "defined": "Schedule 1 §1.502 → Section 60",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Prohibited Acts Termination Sum",
+  "uses": 3,
+  "defined": "Schedule 1 §1.503 → Schedule 23 – Compensation on Termination",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project",
+  "uses": 57,
+  "defined": "Schedule 1 §1.504",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Agreement",
+  "uses": 576,
+  "defined": "Schedule 1 §1.505",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Co",
+  "uses": 1373,
+  "defined": "Schedule 1 §1.507",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "PROJECT CO",
+  "uses": 3,
+  "defined": "body (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Co Certificate",
+  "uses": 1,
+  "defined": "Schedule 1 §1.508",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Co Closing Documents",
+  "uses": 1,
+  "defined": "Schedule 1 §1.509",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Co Commissioning",
+  "uses": 6,
+  "defined": "Schedule 1 §1.510",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Project Co Event of Default",
+  "uses": 44,
+  "defined": "Schedule 1 §1.512 → Section 45",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Co Group",
+  "uses": 1,
+  "defined": "Schedule 1 §1.517",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Co Hazardous Substances",
+  "uses": 2,
+  "defined": "Schedule 1 §1.513 → Schedule 40",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Co Highway Design Issue",
+  "uses": 2,
+  "defined": "Schedule 1 §1.515 → Section 11",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Co Indemnified Hazardous Substances Claims",
+  "uses": 5,
+  "defined": "Schedule 1 §1.516 → Section 56",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Co Party",
+  "uses": 177,
+  "defined": "Schedule 1 §1.518",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Co Permits, Licences and Approvals",
+  "uses": 14,
+  "defined": "Schedule 1 §1.519",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Co Proposal Extracts",
+  "uses": 13,
+  "defined": "Schedule 1 §1.521",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Co Representative",
+  "uses": 26,
+  "defined": "Schedule 1 §1.522",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Co shall",
+  "uses": 394,
+  "defined": "Schedule 1 §2.8",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Data",
+  "uses": 1,
+  "defined": "Schedule 1 §1.524",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Data and Drawings",
+  "uses": 2,
+  "defined": "Schedule 1 §1.525 → Schedule 41 – Intellectual Property",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Documents",
+  "uses": 18,
+  "defined": "Schedule 1 §1.526",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Scope",
+  "uses": 119,
+  "defined": "Schedule 1 §1.530",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Project Term",
+  "uses": 16,
+  "defined": "Schedule 1 §1.531",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Proposed Date",
+  "uses": 8,
+  "defined": "Schedule 1 §1.533 → Section 26",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Proprietor",
+  "uses": 5,
+  "defined": "Schedule 1 §1.534 → Section 52",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Protesters",
+  "uses": 16,
+  "defined": "body (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Quality Documentation",
+  "uses": 1,
+  "defined": "Schedule 1 §1.542",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Quality Failure",
+  "uses": 6,
+  "defined": "Schedule 1 §1.543 → Schedule 20 – Payment Mechanism",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Quality Plans",
+  "uses": 1,
+  "defined": "Schedule 1 §1.546",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Queen Street Work",
+  "uses": 3,
+  "defined": "Schedule 1 §1.547",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Railway Approvals",
+  "uses": 1,
+  "defined": "Schedule 1 §1.548",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Railway Order",
+  "uses": 1,
+  "defined": "Schedule 1 §1.549",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Real Property Interests",
+  "uses": 10,
+  "defined": "Schedule 1 §1.550",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Real Property Schedule",
+  "uses": 2,
+  "defined": "Schedule 1 §1.551",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Recoverable Tax",
+  "uses": 3,
+  "defined": "Schedule 1 §1.553 → Section 35",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Recovery Amount",
+  "uses": 5,
+  "defined": "Schedule 1 §1.554 → Section 56",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Rectification",
+  "uses": 2,
+  "defined": "Schedule 20 (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Reference Documents",
+  "uses": 1,
+  "defined": "Schedule 15-1",
+  "kind": "unquoted",
+  "original_in_app8": false
+ },
+ {
+  "term": "Refinancing",
+  "uses": 6,
+  "defined": "Schedule 1 §1.557 → Schedule 28 – Refinancing",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Reimbursement Event",
+  "uses": 3,
+  "defined": "Schedule 1 §1.562 → Section 32",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Reinstatement Plan",
+  "uses": 5,
+  "defined": "Schedule 1 §1.563 → Section 30",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Reinstatement Work",
+  "uses": 14,
+  "defined": "Schedule 1 §1.564 → Section 30",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Release",
+  "uses": 5,
+  "defined": "Schedule 1 §1.565 → Section 14",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Released",
+  "uses": 5,
+  "defined": "Schedule 1 §1.565 → Section 14",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Relevant Authority",
+  "uses": 1,
+  "defined": "Schedule 1 §1.566",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Relevant Change in Law",
+  "uses": 23,
+  "defined": "Schedule 1 §1.567",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Reliability Acceptance Test",
+  "uses": 1,
+  "defined": "Schedule 1 §1.571",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Relief Event",
+  "uses": 31,
+  "defined": "Schedule 1 §1.572",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Request for Civic Works Payment Approval",
+  "uses": 12,
+  "defined": "Schedule 1 §1.575 → Section 20",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Request for Proposals",
+  "uses": 7,
+  "defined": "Schedule 1 §1.576",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Required Notification Date",
+  "uses": 5,
+  "defined": "Schedule 1 §1.578",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Required Revenue Service Availability Date",
+  "uses": 32,
+  "defined": "Schedule 1 §1.579",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Response",
+  "uses": 7,
+  "defined": "Schedule 1 §1.581",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Response Drawings",
+  "uses": 1,
+  "defined": "Schedule 1 §1.582",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Response Vehicle Drawings",
+  "uses": 1,
+  "defined": "Schedule 1 §1.583",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Responsibility Dispute",
+  "uses": 2,
+  "defined": "body (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Responsibility Notice",
+  "uses": 2,
+  "defined": "body (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Responsible Contractor",
+  "uses": 2,
+  "defined": "Schedule 1 §1.586 → Section 33",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Restricted Person",
+  "uses": 6,
+  "defined": "Schedule 1 §1.587",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Revenue Service Availability",
+  "uses": 60,
+  "defined": "Schedule 1 §1.589",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Revenue Service Availability Certificate",
+  "uses": 14,
+  "defined": "Schedule 1 §1.590",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Revenue Service Availability Date",
+  "uses": 19,
+  "defined": "Schedule 1 §1.592",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Revenue Service Availability Notice",
+  "uses": 8,
+  "defined": "Schedule 1 §1.591",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Revenue Service Availability Payment",
+  "uses": 3,
+  "defined": "Schedule 1 §1.593",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Revenue Service Availability Payment Date",
+  "uses": 6,
+  "defined": "Schedule 1 §1.594",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Revenue Service Commencement",
+  "uses": 1,
+  "defined": "Schedule 1 §1.595",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Revenue Service Commencement Date",
+  "uses": 14,
+  "defined": "Schedule 1 §1.596",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Review Procedure",
+  "uses": 27,
+  "defined": "Schedule 1 §1.597",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Ring Fencing Principle",
+  "uses": 4,
+  "defined": "Schedule 1 §1.599 → Section 1",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Risk to Human Health or the Environment",
+  "uses": 4,
+  "defined": "Schedule 1 §1.602",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Rock Stabilization Work",
+  "uses": 3,
+  "defined": "Schedule 1 §1.603",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Safety",
+  "uses": 1,
+  "defined": "Schedule 1 §1.605",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Safety and Security Certification",
+  "uses": 1,
+  "defined": "Schedule 15-1",
+  "kind": "unquoted",
+  "original_in_app8": false
+ },
+ {
+  "term": "Safety Management Plan",
+  "uses": 2,
+  "defined": "Schedule 1 §1.608",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Safety Requirements",
+  "uses": 1,
+  "defined": "Schedule 1 §1.610",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Schedule",
+  "uses": 399,
+  "defined": "Schedule 1 §1.611",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Schedule Cushion",
+  "uses": 8,
+  "defined": "Schedule 1 §1.612",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Scheduled Final Completion Date",
+  "uses": 5,
+  "defined": "Schedule 1 §1.613",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Scheduled Milestone Acceptance Date",
+  "uses": 18,
+  "defined": "Schedule 1 §1.614",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Scheduled Substantial Completion Date",
+  "uses": 5,
+  "defined": "Schedule 1 §1.615",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Scotiabank Building",
+  "uses": 1,
+  "defined": "Schedule 1 §1.616",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Section",
+  "uses": 766,
+  "defined": "Schedule 1 §2.2",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Securities",
+  "uses": 1,
+  "defined": "Schedule 1 §1.619",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Security",
+  "uses": 7,
+  "defined": "Schedule 1 §1.620 → Schedule 4 – Lenders’ Direct Agreement",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Senior Debt Amount",
+  "uses": 1,
+  "defined": "Schedule 1 §1.623 → Schedule 23 – Compensation on Termination",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Senior Debt Service Amount",
+  "uses": 4,
+  "defined": "Schedule 1 §1.625",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Senior Lenders",
+  "uses": 2,
+  "defined": "Schedule 1 §1.626",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Sensitive Information",
+  "uses": 5,
+  "defined": "Schedule 1 §1.627",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Service Failure",
+  "uses": 6,
+  "defined": "Schedule 20 (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Severe Market Disruption",
+  "uses": 4,
+  "defined": "Schedule 1 §1.628",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Shareholders Agreement",
+  "uses": 1,
+  "defined": "Schedule 1 §1.629",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Site",
+  "uses": 55,
+  "defined": "Schedule 1 §1.631",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Site Conditions",
+  "uses": 7,
+  "defined": "Schedule 1 §1.632",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Small Works",
+  "uses": 2,
+  "defined": "Schedule 1 §1.633",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Special Purpose Vehicle",
+  "uses": 1,
+  "defined": "Schedule 1 §1.634",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 1",
+  "uses": 1,
+  "defined": "Schedule 1 §1.635",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 1 E&M",
+  "uses": 1,
+  "defined": "Schedule 1 §1.636",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 1 Fixed Facilities",
+  "uses": 1,
+  "defined": "Schedule 1 §1.637",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 1 Lands",
+  "uses": 3,
+  "defined": "Schedule 1 §1.638",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 1 System",
+  "uses": 7,
+  "defined": "Schedule 1 §1.639",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 1 Vehicles",
+  "uses": 2,
+  "defined": "Schedule 1 §1.640",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Additional Vehicles",
+  "uses": 6,
+  "defined": "Schedule 1 §1.641 → Schedule 44 - Stage 2 Additional Vehicles",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Additional Vehicles Variation",
+  "uses": 3,
+  "defined": "Schedule 1 §1.642",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Background Information",
+  "uses": 14,
+  "defined": "Schedule 1 §1.643",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 East Revenue Service Availability Date",
+  "uses": 1,
+  "defined": "Schedule 1 §1.645",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 East Revenue Service Commencement Date",
+  "uses": 5,
+  "defined": "Schedule 1 §1.646",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 East Substantial Completion Date",
+  "uses": 10,
+  "defined": "Schedule 1 §1.647",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 East System",
+  "uses": 3,
+  "defined": "Schedule 1 §1.648",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Environmental Assessments",
+  "uses": 1,
+  "defined": "Schedule 1 §1.649",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Existing Contamination",
+  "uses": 5,
+  "defined": "Schedule 1 §1.650 → Section 16,2(a1)",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Integration Activities",
+  "uses": 5,
+  "defined": "body (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Interface and Design Management Variation",
+  "uses": 2,
+  "defined": "Schedule 1 §1.651",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Lands",
+  "uses": 17,
+  "defined": "Schedule 1 §1.654",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Latent Defects",
+  "uses": 9,
+  "defined": "Schedule 1 §1.653 → Section 16",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Maintenance Services Variation",
+  "uses": 8,
+  "defined": "Schedule 1 §1.655",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Major Existing Third Party Infrastructure",
+  "uses": 2,
+  "defined": "Schedule 1 §1.657",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 MOU",
+  "uses": 7,
+  "defined": "Schedule 1 §1.658",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Project Co Delivery Scope",
+  "uses": 2,
+  "defined": "Schedule 1 §1.659",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Site Conditions",
+  "uses": 6,
+  "defined": "Schedule 1 §1.660",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 System",
+  "uses": 18,
+  "defined": "Schedule 1 §1.661",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Technical Reports",
+  "uses": 3,
+  "defined": "Schedule 1 §1.663",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 Variation Schedules",
+  "uses": 4,
+  "defined": "Schedule 1 §1.664",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 West Revenue Service Availability Date",
+  "uses": 1,
+  "defined": "Schedule 1 §1.666",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 West Revenue Service Commencement Date",
+  "uses": 5,
+  "defined": "Schedule 1 §1.667",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 West Substantial Completion Date",
+  "uses": 10,
+  "defined": "Schedule 1 §1.668",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stage 2 West System",
+  "uses": 3,
+  "defined": "Schedule 1 §1.669",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Stakeholders",
+  "uses": 5,
+  "defined": "Schedule 1 §1.670",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Standby Letter of Credit",
+  "uses": 14,
+  "defined": "Schedule 1 §1.671 → Section 2",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Start-Up Meeting",
+  "uses": 3,
+  "defined": "Schedule 1 §1.672 → Section 20",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Station",
+  "uses": 6,
+  "defined": "Schedule 15-1",
+  "kind": "unquoted",
+  "original_in_app8": false
+ },
+ {
+  "term": "Structure",
+  "uses": 2,
+  "defined": "Schedule 1 §1.675 → Schedule 15-1 – Output Specifications – Technical Definitions and Reference Documents",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Subcontractor",
+  "uses": 41,
+  "defined": "Schedule 1 §1.676",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Subcontracts",
+  "uses": 19,
+  "defined": "Schedule 1 §1.678",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Submission Date",
+  "uses": 1,
+  "defined": "Schedule 1 §1.679",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Submittal",
+  "uses": 6,
+  "defined": "Schedule 1 §1.680",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Subsequent Notice",
+  "uses": 3,
+  "defined": "Schedule 1 §1.683",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Substantial Completion",
+  "uses": 12,
+  "defined": "Schedule 1 §1.684",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Substantial Completion Certificate",
+  "uses": 12,
+  "defined": "Schedule 1 §1.685",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Substantial Completion Date",
+  "uses": 2,
+  "defined": "Schedule 1 §1.686",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Substantial Completion Notice",
+  "uses": 5,
+  "defined": "Schedule 1 §1.692 → Section 26",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Substantial Completion of the Civic Works",
+  "uses": 1,
+  "defined": "Schedule 1 §1.687",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Substantial Completion of the Highway Work",
+  "uses": 8,
+  "defined": "Schedule 1 §1.689",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Substantial Completion of the Vehicle Component",
+  "uses": 5,
+  "defined": "Schedule 1 §1.690",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Substantial Completion of the Vehicle Component Date",
+  "uses": 1,
+  "defined": "Schedule 1 §1.691",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Support Documentation",
+  "uses": 4,
+  "defined": "Schedule 1 §1.696 → Section 1(b) of Schedule 15-4",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "System",
+  "uses": 136,
+  "defined": "Schedule 1 §1.699",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "System Design Functionality",
+  "uses": 10,
+  "defined": "Schedule 1 §1.701",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "System Design Functionality Report",
+  "uses": 4,
+  "defined": "Schedule 1 §1.702 → Section 20",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "System Specific Change in Law",
+  "uses": 2,
+  "defined": "Schedule 1 §1.705",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "System User",
+  "uses": 15,
+  "defined": "Schedule 1 §1.706",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Taxes",
+  "uses": 15,
+  "defined": "Schedule 1 §1.707",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Technical Appraisal Form",
+  "uses": 1,
+  "defined": "Schedule 1 §1.708",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Technical Reports",
+  "uses": 3,
+  "defined": "Schedule 1 §1.709",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Termination Date",
+  "uses": 13,
+  "defined": "Schedule 1 §1.714",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Third Party Contractors",
+  "uses": 15,
+  "defined": "Schedule 1 §1.716",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Third Party Facilities",
+  "uses": 2,
+  "defined": "Schedule 1 §1.717",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Third Party Works",
+  "uses": 26,
+  "defined": "Schedule 1 §1.719",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Timing Principle",
+  "uses": 8,
+  "defined": "Schedule 1 §1.722 → Section 1",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Title Encumbrances",
+  "uses": 12,
+  "defined": "Schedule 1 §1.723",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Tracks",
+  "uses": 1,
+  "defined": "Schedule 1 §1.724",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Trade-Marks",
+  "uses": 1,
+  "defined": "Schedule 1 §1.725",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Traffic and Transit Management Plan",
+  "uses": 4,
+  "defined": "Schedule 1 §1.728 → Schedule 15-1 – Output Specifications – Technical Definitions and Reference Documents",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Transportation Master Plan",
+  "uses": 2,
+  "defined": "Schedule 1 §1.732",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Trespassers",
+  "uses": 16,
+  "defined": "body (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Trial Running",
+  "uses": 2,
+  "defined": "Schedule 15-1",
+  "kind": "unquoted",
+  "original_in_app8": false
+ },
+ {
+  "term": "Tunnel",
+  "uses": 1,
+  "defined": "Schedule 1 §1.734 → Schedule 15-1 – Output Specifications – Technical Definitions and Reference Documents",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Tunnel Work",
+  "uses": 1,
+  "defined": "Schedule 1 §1.737",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Utilities",
+  "uses": 1,
+  "defined": "Schedule 1 §1.741",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Utilities Work",
+  "uses": 2,
+  "defined": "Schedule 1 §1.742",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Utility Agreements",
+  "uses": 3,
+  "defined": "Schedule 1 §1.743",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Utility Company",
+  "uses": 7,
+  "defined": "Schedule 1 §1.744",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Utility Infrastructure",
+  "uses": 1,
+  "defined": "Schedule 1 §1.745",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Variation",
+  "uses": 68,
+  "defined": "Schedule 1 §1.747 → Schedule 22 – Variation Procedure",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Variation Confirmation",
+  "uses": 10,
+  "defined": "Schedule 1 §1.748 → Schedule 22 – Variation Procedure",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Variation Directive",
+  "uses": 2,
+  "defined": "Schedule 1 §1.749 → Schedule 22 – Variation Procedure",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Variation Enquiry",
+  "uses": 29,
+  "defined": "Schedule 1 §1.750 → Schedule 22 – Variation Procedure",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Variation in the Scope of the Highway Work",
+  "uses": 2,
+  "defined": "Schedule 1 §1.751",
+  "kind": "alias",
+  "original_in_app8": false
+ },
+ {
+  "term": "Variation Procedure",
+  "uses": 54,
+  "defined": "Schedule 1 §1.752",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Vehicle and Fixed Equipment Warranties",
+  "uses": 2,
+  "defined": "Schedule 1 §1.753",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Vehicle Component",
+  "uses": 2,
+  "defined": "Schedule 1 §1.754",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Vehicle Equipment",
+  "uses": 1,
+  "defined": "Schedule 1 §1.756",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Vehicle Milestone",
+  "uses": 10,
+  "defined": "Schedule 1 §1.758",
+  "kind": "direct",
+  "original_in_app8": true
+ },
+ {
+  "term": "Vehicle Working Drawings",
+  "uses": 4,
+  "defined": "Schedule 1 §1.761 → Section 29",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Vehicles",
+  "uses": 37,
+  "defined": "Schedule 1 §1.762",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Warning Notice",
+  "uses": 7,
+  "defined": "Schedule 1 §1.763 → Section 31",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "West Trial Running Period",
+  "uses": 1,
+  "defined": "Schedule 1 §1.764 → Schedule 20 – Payment Mechanism",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "West Trigger Date",
+  "uses": 2,
+  "defined": "body (inline)",
+  "kind": "",
+  "original_in_app8": false
+ },
+ {
+  "term": "Work Default",
+  "uses": 4,
+  "defined": "Schedule 1 §1.766 → Section 33",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Works",
+  "uses": 63,
+  "defined": "Schedule 1 §1.765",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Works Change in Law",
+  "uses": 10,
+  "defined": "Schedule 1 §1.767",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Works Committee",
+  "uses": 40,
+  "defined": "Schedule 1 §1.768 → Section 11",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Works Report",
+  "uses": 6,
+  "defined": "Schedule 1 §1.769 → Section 22",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "Works Schedule",
+  "uses": 32,
+  "defined": "Schedule 1 §1.770",
+  "kind": "direct",
+  "original_in_app8": false
+ },
+ {
+  "term": "Works Submittal",
+  "uses": 7,
+  "defined": "Schedule 1 §1.771 → Section 1",
+  "kind": "pointer",
+  "original_in_app8": false
+ },
+ {
+  "term": "WSIB",
+  "uses": 2,
+  "defined": "Schedule 1 §1.772",
+  "kind": "direct",
+  "original_in_app8": false
+ }
+]
